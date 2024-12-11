@@ -1,0 +1,112 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Formulário de Inspeção Prisional - FIP",
+    "section": "",
+    "text": "Apresentação\nO Formulário de Inspeção Prisional (FIP) é uma nova metodologia de coleta, tratamento, análise e publicidade de dados sobre inspeções ocorridas em unidades penitenciárias em todo os Brasil. Dada sua grande abrangência, surgiu do esforço conjunto entre a Defensoria Pública da União (DPU), o Conselho Nacional de Defensores Públicos-Gerais (Condege), a Ouvidoria Nacional dos Serviços Penais (Onasp), o Conselho Nacional do Ministério Públicos (CNMP) e o próprio Conselho Nacional de Política Criminal e Penitenciária (CNPCP).\nO objetivo principal do projeto é universalizar as informações coletadas em inspeções prisionais e melhorar a aferição dos dados e informações relevantes, porém, sem desconsiderar as particularidades e necessidades de cada órgão da execução penal. Especificamente, o novo modelo de trabalho deseja: padronizar e simplificar as informações; integrar dados; viabilizar a produção de estatísticas; digitalizar os relatórios; medir a qualidade dos serviços prestados; identificar situações de tratamento privilegiado; identificar suspeitas de tortura e maus tratos; e criar procedimentos uniformes para inspeções prisionais.\nA metodologia de trabalho empregada partiu da ideia da simplificação e atualização do formulário padronizado de inspeções elaborado pelo grupo de trabalho executivo constituído nos termos do Acordo de Cooperação nº 17/20111, agregando-se ainda contribuições de formulários adotados pelo Conselho Nacional do Ministério Público e daquele proposto pelo Escritório das Nações Unidas sobre Drogas e Crime (UNODC), com base nas Regras de Mandela(DRUGS; UNODC, 2017).\nA complexidade e abrangência do projeto exigiu sua partição em diversas etapas com o envolvimento de recursos humanos de diversas áreas do conhecimento. A seguir, detalha-se cada uma dessas fases.",
+    "crumbs": [
+      "Apresentação"
+    ]
+  },
+  {
+    "objectID": "index.html#footnotes",
+    "href": "index.html#footnotes",
+    "title": "Formulário de Inspeção Prisional - FIP",
+    "section": "",
+    "text": "Firmado em 23 de novembro de 2011, entre o Senado Federal, a Câmara dos Deputados, o Conselho Nacional de Justiça, o Conselho Nacional do Ministério Público e o Conselho Nacional de Defensores Públicos Gerais.↩︎",
+    "crumbs": [
+      "Apresentação"
+    ]
+  },
+  {
+    "objectID": "cadastramento.html",
+    "href": "cadastramento.html",
+    "title": "1  Cadastramento de Usuários",
+    "section": "",
+    "text": "1.1 Instituições e Atores com Prerrogativas Legais para Execução de Fiscalização e/ou Visitas em Unidades Prisionais\nA lei de execução penal, entre outras, traz a competência de realização de inspeções e/ou visitas em unidades penitenciárias aos seguintes órgãos da execução penal:\nAlém desses, o artigo 9° da Lei nº 12.847, de 2 de agosto de 2013 confere poder ao Mecanismo Nacional de Prevenção e Combate a Tortura (MNPCT) para:\nI - planejar, realizar e monitorar visitas periódicas e regulares a pessoas privadas de liberdade em todas as unidades da Federação, para verificar as condições de fato e de direito a que se encontram submetidas;",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Cadastramento de Usuários</span>"
+    ]
+  },
+  {
+    "objectID": "cadastramento.html#instituições-e-atores-com-prerrogativas-legais-para-execução-de-fiscalização-eou-visitas-em-unidades-prisionais",
+    "href": "cadastramento.html#instituições-e-atores-com-prerrogativas-legais-para-execução-de-fiscalização-eou-visitas-em-unidades-prisionais",
+    "title": "1  Cadastramento de Usuários",
+    "section": "",
+    "text": "Conselho Nacional de Políticas Criminal e Penitenciária - CNPCP;\nVaras de Execução Penal;\nConselhos Penitenciários Estaduais;\nSecretaria Nacional de Políticas Penais (antigo Departamento Penitenciário Nacional);\nDepartamentos Penitenciários Estaduais;\nMinistérios públicos da União, dos Estados e do Distrito Federal;\nDefensorias públicas da União, dos Estados e do Distrito Federal;\nConselhos de comunidade.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Cadastramento de Usuários</span>"
+    ]
+  },
+  {
+    "objectID": "cadastramento.html#sec-perfil",
+    "href": "cadastramento.html#sec-perfil",
+    "title": "1  Cadastramento de Usuários",
+    "section": "1.2 Perfis de Utilização do Formulário de Inspeção Prisional",
+    "text": "1.2 Perfis de Utilização do Formulário de Inspeção Prisional\nConsiderando que a lista de intuições supracitada contém órgãos de diferentes esferas do poder público com  variadas atribuições acerca da execução penal e, além disso, o Formulário de Inspeção Prisional - FIP - possui  informações de acesso restrito às pessoas com prerrogativa e necessidade de visualização das mesmas, conforme processo 08016.019717/2021-09, há a necessidade de definição dos perfis de usuários com detalhamento de suas funções e visualização de dados dentro do sistema.\nVisando o máximo de transparência das informações, o FIP, em regra, permite a visualização de todos os formulários por qualquer usuário de acordo com as restrições impostas aos perfis, sendo:\n\nInspetor prisional: perfil de usuário com acesso completo às informações já validadas do sistema. \nInspetor prisional padrão: os usuários com esse perfil não terão acesso às informações de acesso restrito de formulários preenchidos e validados por outros inspetores.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Cadastramento de Usuários</span>"
+    ]
+  },
+  {
+    "objectID": "cadastramento.html#usuários",
+    "href": "cadastramento.html#usuários",
+    "title": "1  Cadastramento de Usuários",
+    "section": "1.3 Usuários",
+    "text": "1.3 Usuários\nA variedade de instituições responsáveis pela execução penal traz consigo pluralidade de atribuições e olhares acerca do sistema prisional. Dessa forma, a atuação de alguns atores possui maior alcance, enquanto outros têm atuação localizada em uma única ou poucas unidades penitenciárias.    \nCom essa realidade em mente, segue a definição dos usuários por perfil de atribuições:\n\nInspetor prisional: atores com atuação ampla com necessidade de acesso completo às informações de acesso restrito de outros inspetores. \nInspetor prisional padrão: Inspetores com atribuições localizadas em poucas unidades penitenciárias, nesse sentido, usuários com esse perfil não terão acesso às informações restritas de questionários preenchidos por outros inspetores.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Cadastramento de Usuários</span>"
+    ]
+  },
+  {
+    "objectID": "cadastramento.html#sec-documentacao",
+    "href": "cadastramento.html#sec-documentacao",
+    "title": "1  Cadastramento de Usuários",
+    "section": "1.4 Documentação",
+    "text": "1.4 Documentação\nSolicitação formal da instituição (ofício) contendo as seguintes informações:\n\nNome completo do(s) servidor(es);\nMatrícula(s);\nDescrição breve das atribuições do(s) servidor(es) especificando a área de atuação do(s) mesmo(s) para definição do perfil mais adequado.\n\nPara o caso de cargos eletivos / comissionados, além dos documentos supracitados, deve-se encaminhar documento comprobatório da posse no cargo informando o tempo determinado do mandato.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Cadastramento de Usuários</span>"
+    ]
+  },
+  {
+    "objectID": "cadastramento.html#sec-sigilo",
+    "href": "cadastramento.html#sec-sigilo",
+    "title": "1  Cadastramento de Usuários",
+    "section": "1.5 Sobre as Informações de Acesso Restrito",
+    "text": "1.5 Sobre as Informações de Acesso Restrito\nO grupo de trabalho responsável pela elaboração do questionário, de forma conjunta, analisou caracterizou os itens reservados (sensíveis) do questionário, dessa forma, devendo-se tê-las como informações de acesso restrito. A lista abaixo compõe o rol de itens classificados.\n\nNome do responsável pelo estabelecimento;\nNome do responsável pela segurança;\nIndicativos de atuação facções no estabelecimento;\nTotal de recursos humanos na área de segurança;\nTotal de recursos humanos;\nQuantidade de policiais penais / agente penitenciários;\nEscala de trabalho dos agentes;\nQual efetivo de agentes por plantão;\nEquipamentos disponibilizados pelos responsáveis pela segurança interna;\nOs policiais penais / agentes penitenciários que fazem uso de arma de fogo?;\nExiste grupo de intervenção especial à disposição da unidade?;\nServidores envolvidos (participantes de grupo de intervenção especial);\nEquipamentos disponibilizados para o controle da entrada;\nQuais os seguintes itens foram apreendidos no ano de referência?;\nOcorrências nos últimos 12 meses – fugas;\nSão aplicados aos visitantes os seguintes procedimentos de revista;\nNº de agentes penitenciários inferior ao recomendado: 5 presos por agente penitenciário, no mínimo (art. 1º, Resolução nº 09/2009 do CNPCP);\nConsiderações;\nProvidências / recomendações;\nNome do inspetor;\nUpload do formulário (questionário digital);\nFotos da inspeção.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Cadastramento de Usuários</span>"
+    ]
+  },
+  {
+    "objectID": "cadastramento.html#sec-tcms",
+    "href": "cadastramento.html#sec-tcms",
+    "title": "1  Cadastramento de Usuários",
+    "section": "1.6 Termo de Ciência e Compromisso de Manutenção de Sigilo",
+    "text": "1.6 Termo de Ciência e Compromisso de Manutenção de Sigilo\nOs usuários cadastrados com acesso às informações reservadas do FIP, deverão ler e aceitar o TCMS dentro da plataforma antes iniciar o preenchimento e/ou consultas de formulário dentro do módulo de inspeção prisional. O Sisdepen traz a íntegra do texto com os aspectos legais ligados ao resguardo das informações, além de, exigir o sigilo sobre os dados de acesso restrito.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Cadastramento de Usuários</span>"
+    ]
+  },
+  {
+    "objectID": "primeiro_acesso.html",
+    "href": "primeiro_acesso.html",
+    "title": "2  Primeiro Acesso",
+    "section": "",
+    "text": "O primeiro acesso ao Sistema por parte do inspetor deve ser realizado após a aprovação do cadastro realizado pelos administradores do Sisdepen após a execução dos procedimentos listados no capítulo anterior (Capítulo 1).\nO vídeo a seguir mostra o procedimento necessário para efetivação do primeiro acesso e aceitação do Termo de Ciência e Compromisso de Manutenção de Sigilo (TCMS).",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Primeiro Acesso</span>"
+    ]
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "DRUGS, U. N. O. ON; UNODC, C. -. Assessing compliance with the\nNelson Mandela Rules – A checklist for internal inspection\nmechanisms. New York, US: United Nations, 2017. Disponível em:\n&lt;https://www.unodc.org/documents/justice-and-prison-reform/UNODC_Checklist_-_Nelson_Mandela_Rules.pdf,\nconsultado em 01/8/2019&gt;.",
+    "crumbs": [
+      "References"
+    ]
+  }
+]
