@@ -1,0 +1,7 @@
+# Primeiro Acesso
+
+O primeiro acesso ao Sistema por parte do inspetor deve ser realizado após a aprovação do cadastro realizado pelos administradores do Sisdepen após a execução dos procedimentos listados no capítulo anterior (@sec-cadastramento).
+
+O vídeo a seguir mostra o procedimento necessário para efetivação do primeiro acesso e aceitação do Termo de Ciência e Compromisso de Manutenção de Sigilo (TCMS).
+
+{{< video https://www.youtube.com/watch?v=i8I9s-e0QX8 >}}

@@ -1,0 +1,113 @@
+# Cadastramento de Usuários {#sec-cadastramento}
+
+A autorização para utilização do FIP pelo inspetor prisional segue procedimentos burocráticos para, especialmente, garantia da segurança das informações e manutenção do fluxo correto de utilização do sistema (evitar sobrecarga).
+
+A utilização do Formulário de Inspeção Prisional - em sua versão digital - requer acesso ao Sistema de Informação Penal da Secretaria Nacional de Políticas Penais (Sisdepen/Senappen).
+
+## Instituições e Atores com Prerrogativas Legais para Execução de Fiscalização e/ou Visitas em Unidades Prisionais
+
+A lei de execução penal, entre outras, traz a competência de realização de inspeções e/ou visitas em unidades penitenciárias aos seguintes órgãos da execução penal:
+
+-   Conselho Nacional de Políticas Criminal e Penitenciária - CNPCP;
+
+-   Varas de Execução Penal;
+
+-   Conselhos Penitenciários Estaduais;
+
+-   Secretaria Nacional de Políticas Penais (antigo Departamento Penitenciário Nacional);
+
+-   Departamentos Penitenciários Estaduais;
+
+-   Ministérios públicos da União, dos Estados e do Distrito Federal;
+
+-   Defensorias públicas da União, dos Estados e do Distrito Federal;
+
+-   Conselhos de comunidade.
+
+Além desses, o artigo 9° da Lei nº 12.847, de 2 de agosto de 2013 confere poder ao Mecanismo Nacional de Prevenção e Combate a Tortura (MNPCT) para:
+
+I - planejar, realizar e monitorar visitas periódicas e regulares a pessoas privadas de liberdade em todas as unidades da Federação, para verificar as condições de fato e de direito a que se encontram submetidas;
+
+## Perfis de Utilização do Formulário de Inspeção Prisional {#sec-perfil}
+
+Considerando que a lista de intuições supracitada contém órgãos de diferentes esferas do poder público com  variadas atribuições acerca da execução penal e, além disso, o Formulário de Inspeção Prisional - FIP - possui  informações de acesso restrito às pessoas com prerrogativa e necessidade de visualização das mesmas, conforme processo 08016.019717/2021-09, há a necessidade de definição dos perfis de usuários com detalhamento de suas funções e visualização de dados dentro do sistema.
+
+Visando o máximo de transparência das informações, o FIP, em regra, permite a visualização de todos os formulários por qualquer usuário de acordo com as restrições impostas aos perfis, sendo:
+
+-   Inspetor prisional: perfil de usuário com acesso completo às informações já validadas do sistema. 
+
+-   Inspetor prisional padrão: os usuários com esse perfil não terão acesso às informações de acesso restrito de formulários preenchidos e validados por outros inspetores.
+
+## Usuários
+
+A variedade de instituições responsáveis pela execução penal traz consigo pluralidade de atribuições e olhares acerca do sistema prisional. Dessa forma, a atuação de alguns atores possui maior alcance, enquanto outros têm atuação localizada em uma única ou poucas unidades penitenciárias.    
+
+Com essa realidade em mente, segue a definição dos usuários por perfil de atribuições:
+
+-   Inspetor prisional: atores com atuação ampla com necessidade de acesso completo às informações de acesso restrito de outros inspetores. 
+
+-   Inspetor prisional padrão: Inspetores com atribuições localizadas em poucas unidades penitenciárias, nesse sentido, usuários com esse perfil não terão acesso às informações restritas de questionários preenchidos por outros inspetores. 
+
+## Documentação {#sec-documentacao}
+
+Solicitação formal da instituição (ofício) contendo as seguintes informações:
+
+-   Nome completo do(s) servidor(es);
+
+-   Matrícula(s);
+
+-   Descrição breve das atribuições do(s) servidor(es) especificando a área de atuação do(s) mesmo(s) para definição do perfil mais adequado.
+
+Para o caso de cargos eletivos / comissionados, além dos documentos supracitados, deve-se encaminhar documento comprobatório da posse no cargo informando o tempo determinado do mandato.
+
+## Sobre as Informações de Acesso Restrito {#sec-sigilo}
+
+O grupo de trabalho responsável pela elaboração do questionário, de forma conjunta, analisou caracterizou os itens reservados (sensíveis) do questionário, dessa forma, devendo-se tê-las como informações de acesso restrito. A lista abaixo compõe o rol de itens classificados.
+
+-   Nome do responsável pelo estabelecimento;
+
+-   Nome do responsável pela segurança;
+
+-   Indicativos de atuação facções no estabelecimento;
+
+-   Total de recursos humanos na área de segurança;
+
+-   Total de recursos humanos;
+
+-   Quantidade de policiais penais / agente penitenciários;
+
+-   Escala de trabalho dos agentes;
+
+-   Qual efetivo de agentes por plantão;
+
+-   Equipamentos disponibilizados pelos responsáveis pela segurança interna;
+
+-   Os policiais penais / agentes penitenciários que fazem uso de arma de fogo?;
+
+-   Existe grupo de intervenção especial à disposição da unidade?;
+
+-   Servidores envolvidos (participantes de grupo de intervenção especial);
+
+-   Equipamentos disponibilizados para o controle da entrada;
+
+-   Quais os seguintes itens foram apreendidos no ano de referência?;
+
+-   Ocorrências nos últimos 12 meses – fugas;
+
+-   São aplicados aos visitantes os seguintes procedimentos de revista;
+
+-   Nº de agentes penitenciários inferior ao recomendado: 5 presos por agente penitenciário, no mínimo **(art. 1º, Resolução nº 09/2009 do CNPCP);**
+
+-   Considerações;
+
+-   Providências / recomendações;
+
+-   Nome do inspetor;
+
+-   Upload do formulário (questionário digital);
+
+-   Fotos da inspeção.
+
+## Termo de Ciência e Compromisso de Manutenção de Sigilo {#sec-tcms}
+
+Os usuários cadastrados com acesso às informações reservadas do FIP, deverão ler e aceitar o TCMS dentro da plataforma antes iniciar o preenchimento e/ou consultas de formulário dentro do módulo de inspeção prisional. O Sisdepen traz a íntegra do texto com os aspectos legais ligados ao resguardo das informações, além de, exigir o sigilo sobre os dados de acesso restrito. 

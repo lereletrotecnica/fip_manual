@@ -1,0 +1,23 @@
+# Apresentação {.unnumbered}
+
+O Formulário de Inspeção Prisional (FIP) é uma nova metodologia de coleta, tratamento, análise e publicidade de dados sobre inspeções ocorridas em unidades penitenciárias em todo os Brasil. Dada sua grande abrangência, surgiu do esforço conjunto entre a Defensoria Pública da União (DPU), o Conselho Nacional de Defensores Públicos-Gerais (Condege), a Ouvidoria Nacional dos Serviços Penais (Onasp), o Conselho Nacional do Ministério Públicos (CNMP) e o próprio Conselho Nacional de Política Criminal e Penitenciária (CNPCP).
+
+O objetivo principal do projeto é universalizar as informações coletadas em inspeções prisionais e melhorar a aferição dos dados e informações relevantes, porém, sem desconsiderar as particularidades e necessidades de cada órgão da execução penal. Especificamente, o novo modelo de trabalho deseja: padronizar e simplificar as informações; integrar dados; viabilizar a produção de estatísticas; digitalizar os relatórios; medir a qualidade dos serviços prestados; identificar situações de tratamento privilegiado; identificar suspeitas de tortura e maus tratos; e criar procedimentos uniformes para inspeções prisionais.
+
+A metodologia de trabalho empregada partiu da ideia da simplificação e atualização do formulário padronizado de inspeções elaborado pelo grupo de trabalho executivo constituído nos termos do Acordo de Cooperação nº 17/2011[^index-1], agregando-se ainda contribuições de formulários adotados pelo Conselho Nacional do Ministério Público e daquele proposto pelo Escritório das Nações Unidas sobre Drogas e Crime (UNODC), com base nas Regras de Mandela[@mandelaRules].
+
+[^index-1]: Firmado em 23 de novembro de 2011, entre o Senado Federal, a Câmara dos Deputados, o Conselho Nacional de Justiça, o Conselho Nacional do Ministério Público e o Conselho Nacional de Defensores Públicos Gerais.
+
+A complexidade e abrangência do projeto exigiu sua partição em diversas etapas com o envolvimento de recursos humanos de diversas áreas do conhecimento. A seguir, detalha-se cada uma dessas fases.
+
+-   ***Formulação do questionário:** reuniões entre os atores envolvidos, nessa fase, diversos itens do questionário tiveram a sua redação atualizada, preferindo-se respostas objetivas à disponibilização de campos abertos, a fim de viabilizar a inserção das informações em bancos de dados que permitirão a extração de estatísticas importantes para que as inspeções de estabelecimentos penais contribuam com o diagnóstico das deficiências e com a orientação correta das políticas públicas voltadas para o sistema, sem prejuízo de que as equipes de inspeções teçam considerações em formato discursivo à parte;*
+
+-   ***Digitalização do questionário:** Com o intuito de gerar um banco de dados central sobre as inspeções prisionais e facilitar o uso e publicidade das informações, foi planejado o desenvolvimento do módulo de inspeção prisional dentro do Sistema de Informação Penal (Sisdepen) da Secretaria Nacional de Políticas Penais (Senappen). Essa ferramenta funciona on-line e possui funções de validação de dados e controle de usuários, além de, integração com as informações do Censo Penitenciário semestral realizado pela Senappen. Nesse sentido, a utilização do sistema traz: qualidade dos dados; segurança em relação às informações sigilosas; controle de erros; agilidade no tratamento e análise de dados; e maior publicidade das informações.*
+
+-   ***Cadastramento dos usuários:** Essa fase passa pela regulamentação dos critérios para cadastramento dos usuários, ou seja, definição - por parte dos gestores do projeto - dos perfis de usuários do sistema os quais terão acesso às informações dados os graus de sigilo.*
+
+-   ***Treinamento dos usuários:** o treinamento foi planejado via palestras, vídeos e manuais. Além disso, o usuário poderá manter contato com os administradores do sistema e os gestores do projeto para sanar dúvidas relativas aos procedimentos de inspeção e utilização do sistema;*
+
+-   ***Publicidade das informações:** o alcance das informações ao público geral será realizada através de painéis de business intelligence e relatórios estatísticos descritivos. As informações serão previamente validadas e tratadas pelos inspetores prisionais e administradores do sistema;*
+
+-   ***Criação de aplicativo mobile:** A última etapa do processo de gerencimento e criação do FIP é o desenvolvimento de um aplicativo para dispositivos móveis que funcionará de maneira off-line. Dessa maneira, unidades sem acesso a internet poderão ser inspecionadas de maneira mais ágil e efetiva.*

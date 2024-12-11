@@ -1,0 +1,90 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "Formulário de Inspeção Prisional - FIP"
+  subtitle: "Manual de Utilização"
+  author: "Secretaria Nacional de Políticas Penais - Senappen"
+  date: today
+  reader-mode: true
+  page-navigation: true
+  page-footer:
+   background: "#294661"
+   center:
+    - text: "Formulário de Inspeção Prisional /"
+      #href: https://www.gov.br/senappen/pt-br/servicos/sisdepen
+    - text: "Diretoria de Políticas Penitenciárias - Dirpp /"
+      #href: https://www.gov.br/senappen/pt-br/composicao/estrutura-organizacional
+    - text: "Secretaria Nacional de Políticas Penais - Senappen /"
+      #href: https://www.gov.br/senappen/pt-br
+    - text: "Ministério da Justiça e Segurança Pública - MJSP"
+      #href: https://www.gov.br/mj/pt-br
+  cover-image: img/senappen_brasao.png
+  image: img/senappen_brasao.png
+  site-url: https://www.gov.br/senappen/pt-br
+  sharing: [twitter, facebook, linkedin]
+  search:
+    location: sidebar
+    type: textbox
+  
+  sidebar:
+    font.family: 'Calibri'
+    title: "Diretoria de Políticas Penitenciárias"
+    subtitle: "Relatório Sintético"
+    background: "#FFFFFF"
+    items:
+    logo: img/senappen_brasao.png
+    #style: docked # JOGA A TELA PARA A ESQUERDA
+    alignment: left
+    tools:
+      - icon: git
+      - href: https://www.gov.br/depen/pt-br/canais_atendimento/ouvidoria
+  
+  chapters:
+    - index.qmd
+    - cadastramento.qmd
+    - primeiro_acesso.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+highlight-style: pygments
+
+format:
+  html:
+    embed-resources: false #COLOCA TODOS OS ARQUIVOS JUNTOS
+    theme: cosmo #default #pandoc #cosmo default none
+    code-link: true
+    css: style.css
+    code-copy: true
+    #page-layout: custom
+    page-layout: full
+    #grid: #CONFIGURA O TAMANHO DA TELA
+      #sidebar-width: 400px
+      #body-width: 800px
+      #margin-width: 200px
+      #gutter-width: 1.5rem
+  pdf:
+    documentclass: scrreprt
+
+knitr:
+  opts_chunk:
+    fig.align: "center"
+    message: false
+    echo: false
+    results: true
+    dpi: 300
+    warning: false
+    out-width: NULL
+    fig.responsive: true
+    comment: false
+
+
+
+lang: pt
+csl: abnt.csl
+
+editor: visual
+
+
